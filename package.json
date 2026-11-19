@@ -1,0 +1,8 @@
+{
+    "name": "class-copilot",
+    "private": true,
+    "scripts": {
+        "dev": "pnpm -r --parallel dev",
+        "build": "pnpm -r build"
+    }
+}
